@@ -719,7 +719,7 @@ p.service_text{
     <div class="container">
       <div class="row">
         <div class="section-head col-sm-12"  >
-							<h2 style="text-align:center;">MES SERVICES</h2>
+							<h2 style="text-align:center;">SERVICES</h2>
                             <h6 style="text-align:center;">MES COMPÉTENCES SONT À VOTRE DISPOSITION !</h6>
 		  
         </div>
